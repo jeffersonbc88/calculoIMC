@@ -31,17 +31,17 @@ body {
     font-weight: bold;
 }
 
-.container div {
-    float: left;
+.floarBox{
+	float:left;
+	width: 50%;
     margin: 0px 0 20px 0;
-    width: 50%;
 }
 
 .container div p {
     margin: 5px 0;
 }
 
-body section .resultado {
+body .container .resultado {
     background-color: #55dba3;
     width: 100%;
     padding: 0 5px;
